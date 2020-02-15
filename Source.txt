@@ -1,0 +1,4 @@
+Renault
+Sandero
+10
+800000
